@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Understanding of Faith`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Eric Phifer`,
+      summary: `A Daily Walk of Trust`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A daily walk of trusting in Christ Jesus through the pursuit of scripture, understanding historical events, and gaining wisdom through living out our flawed lives.`,
+    siteUrl: `https://understandingoffaith.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `uof40`,
     },
   },
   plugins: [
@@ -27,6 +27,13 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    // {
+    //   resolve: 'gatsby-source-sanity',
+    //   options: {
+    //     projectId: "9ekcrdlf",
+    //     dataset: "blog",
+    //   },
+    // },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -105,7 +112,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Understanding of Faith RSS Feed",
           },
         ],
       },
@@ -113,15 +120,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Understanding of Faith`,
+        short_name: `UoF`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/uof-logo.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
