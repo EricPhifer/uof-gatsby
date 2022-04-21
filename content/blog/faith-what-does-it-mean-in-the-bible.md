@@ -1,46 +1,47 @@
 ---
-title: 'Faith: What Does it Mean in the Bible?'
-date: '2020-04-21T12:05:22+00:00'
+title: "Faith: What Does it Mean in the Bible?"
+date: "2020-04-21T12:05:22+00:00"
 status: publish
-permalink: /faith-what-does-it-mean-in-the-bible
-author: uofadmin
-excerpt: ''
+slug: /faith-what-does-it-mean-in-the-bible
+author: Eric Phifer
+excerpt: ""
 type: post
 id: 298
 thumbnail: ../uploads/2020/02/yellow-sparkles-glitter.jpg
 category:
-    - 'Faith in Scripture'
+  - "Faith in Scripture"
 tag:
-    - faith
-    - scripture
+  - faith
+  - scripture
 post_format: []
 ---
+
 I think it’s important to start this question with the culture first. Here in America at this time there is a common belief that “blind faith is the best faith”. The scripture most often cited to uphold this view occurs after the resurrection when Jesus is talking to Thomas. The reference occurs in [John 20:24-29](https://www.biblegateway.com/passage/?search=John+20%3A24-29&version=HCSB).
 
 Strong’s Concordance uses the KJV for reference, so here are the relevant words from that version: **believe** (v. 25), **faithless** (v. 27), **believing** (v.27) and most of all **believed** (twice in v. 29).
 
-Believe and believed are ***pisteuo*** (pist-yoo-o) in the Greek and means:
+Believe and believed are **_pisteuo_** (pist-yoo-o) in the Greek and means:
 
-> from 4102; to have *faith* (in, upon, or with respect to, a person or thing), i.e. *credit*; by implication to *entrust* (especially one’s spiritual well-being to Christ): — believe (-r), commit (to trust), put in trust with.
-> 
+> from 4102; to have _faith_ (in, upon, or with respect to, a person or thing), i.e. _credit_; by implication to _entrust_ (especially one’s spiritual well-being to Christ): — believe (-r), commit (to trust), put in trust with.
+>
 > <cite>Strong’s Concordance, Greek 4102</cite>
 
-Faithless is ***apistos*** (a-pis-tos; 571) in the Greek and is defined as:
+Faithless is **_apistos_** (a-pis-tos; 571) in the Greek and is defined as:
 
-> from 1 (as a negative participle) and 4103; (action) *disbelieving*; i.e. without Christ; *faith* (specifically *a heathen*); (passive) untrustworthy (person), or incredible (thing): — that believeth not, faithless, incredible thing, infidel, unbeliever (-ing).
-> 
+> from 1 (as a negative participle) and 4103; (action) _disbelieving_; i.e. without Christ; _faith_ (specifically _a heathen_); (passive) untrustworthy (person), or incredible (thing): — that believeth not, faithless, incredible thing, infidel, unbeliever (-ing).
+>
 > <cite>Strong’s Concordance, Greek 571</cite>
 
-Believing is ***pistos*** (4103) in the Greek and means:
+Believing is **_pistos_** (4103) in the Greek and means:
 
 > from 3982; object – trustworthy; subject – trustful; — believe (-ing, -r), faithful (-ly), sure, true.
-> 
+>
 > <cite>Strong’s Concordance, Greek 4103</cite>
 
-Just for good measure, this is the definition for 3982, ***peitho***:
+Just for good measure, this is the definition for 3982, **_peitho_**:
 
 > a primitive verb; to convince (by argument, true or false); by analogy, to purify or conciliate (by other fair means); reflexive or passive, to assert (to evidence or authority, to rely (by inward certainty; — agree, assure, believe, have confidence, be (wax) confident, make a friend, obey, persuade, trust, yield.
-> 
+>
 > <cite>Strong’s Concordance, Greek 3982</cite>
 
 Here’s the question, then: is the Bible referring to “blind faith”? Using the definitions from the original language, let’s try replacing faith with other related words.
@@ -69,12 +70,12 @@ The difference between belief and faith simply comes down to how it is used in a
 
 Faith is trust acquired through evidence (through knowledge &amp; experience) – seeing &amp; hearing who God is and through this seeing and hearing we gain confidence in God’s character and the reality of His Biblical truth.
 
-Faith is not merely emotion and it is not merely head knowledge. It is encompassed by understanding who God is, His attributes, His actions, His emotions and His thoughts. If we know then, from this seeking and learning, what God has been like then **we can know what He *will be* like** also.
+Faith is not merely emotion and it is not merely head knowledge. It is encompassed by understanding who God is, His attributes, His actions, His emotions and His thoughts. If we know then, from this seeking and learning, what God has been like then **we can know what He _will be_ like** also.
 
 ### Back to 2 Peter
 
-So how does this fit back into 2 Peter? The first attribute listed is faith, or trust by way of evidence to convince us. I don’t think faith was first by accident. I believe it is foundational to Christianity but, based on this and [the resources here](https://understandingoffaith.com/faith-the-list-in-scripture/), in order to gain that faith, we must be thoroughly convinced of the truth that [first *we are sinners*, second *want to change* and third *Jesus lived, died and rose again*](https://understandingoffaith.com/sin-repentance-jesus-the-foundation-of-christianity/) in order to save us from that sin.
+So how does this fit back into 2 Peter? The first attribute listed is faith, or trust by way of evidence to convince us. I don’t think faith was first by accident. I believe it is foundational to Christianity but, based on this and [the resources here](https://understandingoffaith.com/faith-the-list-in-scripture/), in order to gain that faith, we must be thoroughly convinced of the truth that [first _we are sinners_, second _want to change_ and third _Jesus lived, died and rose again_](https://understandingoffaith.com/sin-repentance-jesus-the-foundation-of-christianity/) in order to save us from that sin.
 
-I believe that we as believers should understand *<span style="text-decoration: underline;">everything</span>* we can possible know related to these three things. If we are thoroughly convinced of these 3 things, we can then move on to 2 Peter 1:5-8 to grow in the sanctification of Christ.
+I believe that we as believers should understand _<span style="text-decoration: underline;">everything</span>_ we can possible know related to these three things. If we are thoroughly convinced of these 3 things, we can then move on to 2 Peter 1:5-8 to grow in the sanctification of Christ.
 
 After this confident trust in Christ, it must be supplemented by goodness. So what is goodness in the Bible? I’ll cover that next.

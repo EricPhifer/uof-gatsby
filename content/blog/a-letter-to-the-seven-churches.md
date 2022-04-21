@@ -1,26 +1,27 @@
 ---
-title: 'A Letter to the Seven Churches'
-date: '2021-01-19T13:10:22+00:00'
+title: "A Letter to the Seven Churches"
+date: "2021-01-19T13:10:22+00:00"
 status: publish
-permalink: /a-letter-to-the-seven-churches
-author: uofadmin
-excerpt: ''
+slug: /a-letter-to-the-seven-churches
+author: Eric Phifer
+excerpt: ""
 type: post
 id: 358
 thumbnail: ../uploads/2021/01/church-pews-sanctuary.jpg
 category:
-    - 'The End'
-    - 'Truth in Scripture'
+  - "The End"
+  - "Truth in Scripture"
 tag:
-    - church
-    - churches
-    - 'end times'
-    - john
-    - letter
-    - revelation
-    - warning
+  - church
+  - churches
+  - "end times"
+  - john
+  - letter
+  - revelation
+  - warning
 post_format: []
 ---
+
 Wake up Church! The hour is at hand. The Lord of Heaven’s Armies is close. We have known the Lamb and He does, has and will always love us; however, the Lion of Judah is returning. To those he loves he also rebukes and disciplines. (Rev. 3:19)
 
 Jesus speaks to seven churches of the day, which clearly equate to seven different types of churches in the end times: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea. Each church he tells what they’re doing well and warns them of what areas to **repent**.
@@ -61,7 +62,7 @@ Repent and turn from the practices taught by false teachers (Jezebel).
 
 Jesus will throw you onto a sickbed and kill all “her children” with a plague. (Children of the false teacher.)
 
- You have a reputation for being alive, but **you are dead**.(Rev. 3:1)
+You have a reputation for being alive, but **you are dead**.(Rev. 3:1)
 
 Have not found your works complete. (Rev. 3:2)
 
@@ -73,7 +74,7 @@ Be alert and strengthen what remains.
 
 Jesus will come like a thief and you will be blind to the signs of His coming.
 
- You are neither hot nor cold. You are lukewarm in your faith. (Rev. 3:15)
+You are neither hot nor cold. You are lukewarm in your faith. (Rev. 3:15)
 
 You say “I’m rich; I have become wealthy, and need nothing.” and you don’t know that you’re wretched, pitiful, poor, blind and naked. (Rev. 3:17)
 
@@ -104,43 +105,43 @@ There are two churches that Jesus does not rebuke: Smyrna and Philedelphia. All 
 **To Smyrna:**
 
 > I know your tribulation and poverty, yet <u>you are rich</u>. I know the slander of those who say they are Jews and are not, but are a synagogue of Satan. <u>Don’t be afraid</u> of what you are about <u>to suffer</u>. Look, the Devil is about to throw some of you into prison to test you, and <u>you will have tribulation</u> for 10 days. <u>Be faithful</u> until death and I will give you the crown of life.
-> 
+>
 > …The victor will <u>never be harmed by the second death</u>.
-> 
+>
 > – Rev. 2: 9-11(underlining added)
 
 **To Pergamum:**
 
 > I will give the victor some the <u>hidden manna</u>. I will also give him a<u> white stone on the stone a new name </u>is inscribed that no one knows except the one who receives it.
-> 
+>
 > – Rev. 2: 17 (underlining added)
 
 **To Thyatira:**
 
 > I say to the rest of you in Thyatira, who <u>do not hold this teaching</u>, who haven’t known the deep things of Satan — as they say — <u>I do not put any other </u><u>burden</u><u> on you</u>. But<u> hold on</u> to what you have until I come. The victor and the one who keeps My works to the end: <u>I will give him authority over the nations</u> —
-> 
+>
 > ‘and He will shepherd them with an iron scepter; He will shatter them like pottery — just as I have received this from My Father.’
-> 
+>
 > I will also give him the morning star.
-> 
+>
 > – Rev. 2: 24-28 (underlining added)
 
 **To Sardis:**
 
 > But you have a few people in Sardis who <u>have not defiled their clothes</u>, and they will <u>walk with Me</u> in white, because they are worthy. In the same way, the victor will be <u>dressed in white clothes</u>, and <u>I will never erase his name from the book of life</u>, but will <u>acknowledge his name before My Father</u> and before His angels.
-> 
+>
 > – Rev. 3: 4-5 (underlining added)
 
 **To Philadelphia:**
 
 > I know your works. Because <u>you have limited strength</u>, have <u>kept My word</u>, and <u>have not denied My name</u>, look, I have placed before you an open door that no one is able to close. Take note! I will make those from the synagogue of Satan, who claim to be Jews and are not, but are lying — note this — I will make them come and <u>bow down at your feet</u>, and <u>they will know that I have loved you</u>. Because you have <u>kept My command to endure</u>, I will also <u>keep you from the hour of testing </u>that is going to come over the whole world to test those live on the earth. I am coming quickly. <u>Hold on to what you have</u>, so that no none takes your crown. The victor: I will <u>write on him the name of My God</u>, and the <u>name of the city of My God</u> — the new Jerusalem, which comes down out of heaven from My God — <u>and My new name</u>.
-> 
+>
 > – Rev. 3:8-12 (underlining added)
 
 **To Laodicea:**
 
 > Listen! I stand at the door and knock. If anyone <u>hears My voice</u> and <u>opens the door</u>, I will come in to him and <u>have dinner with him, and he with Me</u>. The victor: I will give him <u>the right to sit with Me on My throne</u>, just as I also won the victory and sat down with My Father on His throne.
-> 
+>
 > – Rev. 3: 20-21
 
 There are two main things I want to bring attention to in these encouragements. First, the type of people that Jesus commends:

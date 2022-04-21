@@ -1,16 +1,16 @@
 ---
-title: 'The Basics'
-date: '2020-02-10T12:35:56+00:00'
+title: "The Basics"
+date: "2020-02-10T12:35:56+00:00"
 status: publish
-permalink: /the-basics
-author: uofadmin
-excerpt: ''
+slug: /the-basics
+author: Eric Phifer
+excerpt: ""
 type: page
 id: 114
 thumbnail: ../uploads/2019/01/road-sign-forest-woods.jpg
 ---
-What’s Essential?
------------------
+
+## What’s Essential?
 
 What are the basics of the Christian faith? Must we believe a certain way? Act a certain way? Is the New Testament just another set of rules? What is grace anyway? Is Satan real? If so, does he interact with us? Can we defend ourselves? Is Hell real? Do we have to tithe? Did Jesus really exist? If so, was he really God?
 

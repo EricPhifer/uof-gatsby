@@ -2,8 +2,8 @@
 title: "Privacy Policy"
 date: "2019-01-29T18:34:25+00:00"
 status: draft
-permalink: "/?page_id=3"
-author: uofadmin
+slug: "/?page_id=3"
+author: Eric Phifer
 excerpt: ""
 type: page
 id: 3

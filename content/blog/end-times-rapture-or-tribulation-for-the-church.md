@@ -1,21 +1,22 @@
 ---
-title: 'End Times: Rapture or Tribulation for the Church?'
-date: '2020-05-29T06:00:00+00:00'
+title: "End Times: Rapture or Tribulation for the Church?"
+date: "2020-05-29T06:00:00+00:00"
 status: publish
-permalink: /end-times-rapture-or-tribulation-for-the-church
-author: uofadmin
-excerpt: ''
+slug: /end-times-rapture-or-tribulation-for-the-church
+author: Eric Phifer
+excerpt: ""
 type: post
 id: 343
 category:
-    - 'The End'
+  - "The End"
 tag:
-    - 'end times'
-    - rapture
-    - 'the end'
-    - tribulation
+  - "end times"
+  - rapture
+  - "the end"
+  - tribulation
 post_format: []
 ---
+
 ### Rapture Historically – New or Old
 
 When did the doctrine of the rapture originate? Was it the first Apostles or much later? What did they support for timing? Before the tribulation? After? During?

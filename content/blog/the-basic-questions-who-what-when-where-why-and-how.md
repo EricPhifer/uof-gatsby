@@ -1,24 +1,25 @@
 ---
-title: 'The Basic Questions &#8211; Who, What, When, Where, Why and How'
-date: '2020-04-16T12:05:45+00:00'
+title: "The Basic Questions &#8211; Who, What, When, Where, Why and How"
+date: "2020-04-16T12:05:45+00:00"
 status: publish
-permalink: /the-basic-questions-who-what-when-where-why-and-how
-author: uofadmin
-excerpt: ''
+slug: /the-basic-questions-who-what-when-where-why-and-how
+author: Eric Phifer
+excerpt: ""
 type: post
 id: 284
 category:
-    - 'The Basics'
+  - "The Basics"
 tag:
-    - basics
+  - basics
 post_format: []
 ---
-I’m expanding primarily on what, how and why because *who* is simple – I’m studying the triune God, which includes God the Father, Jesus the Son and the Holy Spirit of God.
 
-*Where* and *when* are slightly deeper, [Deuteronomy 6:7](https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A7&version=HCSB) comes to mind.
+I’m expanding primarily on what, how and why because _who_ is simple – I’m studying the triune God, which includes God the Father, Jesus the Son and the Holy Spirit of God.
+
+_Where_ and _when_ are slightly deeper, [Deuteronomy 6:7](https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A7&version=HCSB) comes to mind.
 
 > Repeat them to your children. Talk about them when you sit in your house and when you walk along the road, when you lie down and when you get up.
-> 
+>
 > <cite>Deuteronomy 6:7</cite>
 
 This is talking about teaching the commands of God to your children – of course, speaking to the Israelites – but I take it in principle for when we should learn.
@@ -33,7 +34,7 @@ What is the most important thing to know and understand? Of course, the obvious 
 
 Love is so hard to grasp though, even with the guide of [1 Corinthians 13](https://www.biblegateway.com/passage/?search=1+Corinthians+13&version=HCSB), Jesus’ example and the Apostles’ example. It’s still really difficult.
 
-I get the impression sometimes that we should just *know* as believers and followers of Christ’s word, but that just makes me feel bad about what I do feel and makes me question the very foundation of truth, my motivations, my will and my understanding. This doesn’t seem beneficial to dwell on.
+I get the impression sometimes that we should just _know_ as believers and followers of Christ’s word, but that just makes me feel bad about what I do feel and makes me question the very foundation of truth, my motivations, my will and my understanding. This doesn’t seem beneficial to dwell on.
 
 The key here is to not remain stationary or complacent, waiting for magical imbuing of power and understanding, but instead to learn and understand. Stay in pursuit of Christ and His heart through the Biblical narrative.
 

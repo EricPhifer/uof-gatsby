@@ -2,8 +2,8 @@
 title: "Does God Tempt?"
 date: "2019-01-29T18:34:25+00:00"
 status: publish
-permalink: /does-god-tempt
-author: uofadmin
+slug: /does-god-tempt
+author: Eric Phifer
 excerpt: ""
 type: post
 id: 1

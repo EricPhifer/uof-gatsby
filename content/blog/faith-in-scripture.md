@@ -1,16 +1,16 @@
 ---
-title: 'Faith in Scipture'
-date: '2020-01-29T23:18:05+00:00'
+title: "Faith in Scipture"
+date: "2020-01-29T23:18:05+00:00"
 status: publish
-permalink: /faith-in-scripture
-author: uofadmin
-excerpt: ''
+slug: /faith-in-scripture
+author: Eric Phifer
+excerpt: ""
 type: page
 id: 104
 thumbnail: ../uploads/2020/01/father-daughter-walking-on-pier-on-lake.jpg
 ---
-What does faith mean in scripture?
-----------------------------------
+
+## What does faith mean in scripture?
 
 There are a lot of thoughts and ideas about what faith is and what it means to us as believers: isn’t blind faith the best faith? is faith opposed to science? faith is believing without evidence, right?
 
