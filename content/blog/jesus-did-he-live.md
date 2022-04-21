@@ -7,13 +7,11 @@ author: Eric Phifer
 excerpt: ""
 type: post
 id: 328
-category:
-  - "The Basics"
-tag:
-  - basic
-  - basics
-  - Jesus
-  - Life
+category: 1. "The Basics"
+tag: 1. basic
+  1. basics
+  1. Jesus
+  1. Life
 post_format: []
 ---
 

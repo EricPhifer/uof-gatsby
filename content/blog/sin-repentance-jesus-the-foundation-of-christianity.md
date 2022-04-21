@@ -1,5 +1,5 @@
 ---
-title: "Sin, Repentance &#038; Jesus: The Foundation of Christianity"
+title: "Sin, Repentance and Jesus: The Foundation of Christianity"
 date: "2020-05-06T06:00:00+00:00"
 status: publish
 slug: /sin-repentance-jesus-the-foundation-of-christianity
@@ -8,14 +8,12 @@ excerpt: ""
 type: post
 id: 318
 thumbnail: ../uploads/2020/02/red-sparkles-glitter.jpg
-category:
-  - "The Basics"
-tag:
-  - basic
-  - basics
-  - Jesus
-  - Repentance
-  - Sin
+category: 1. "The Basics"
+tag: 1. basic
+  1. basics
+  1. Jesus
+  1. Repentance
+  1. Sin
 post_format: []
 ---
 

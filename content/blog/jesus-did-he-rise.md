@@ -7,14 +7,12 @@ author: Eric Phifer
 excerpt: ""
 type: post
 id: 332
-category:
-  - "The Basics"
-tag:
-  - basic
-  - basics
-  - Jesus
-  - Resurrection
-  - Rise
+category: 1. "The Basics"
+tag: 1. basic
+  1. basics
+  1. Jesus
+  1. Resurrection
+  1. Rise
 post_format: []
 ---
 

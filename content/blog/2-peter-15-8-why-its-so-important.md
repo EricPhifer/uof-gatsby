@@ -1,5 +1,5 @@
 ---
-title: "2 Peter 1:5-8 &#8211; Why It&#8217;s So Important"
+title: "2 Peter 1:5-8 and Why Itand8217;s So Important"
 date: "2020-02-21T12:22:08+00:00"
 status: publish
 slug: /2-peter-15-8-why-its-so-important
@@ -8,19 +8,17 @@ excerpt: ""
 type: post
 id: 227
 thumbnail: ../uploads/2020/02/red-sparkles-glitter.jpg
-category:
-  - "Faith in Scripture"
-  - "Get Equipped"
-tag:
-  - "2 peter"
-  - equipping
-  - faith
-  - fruit
-  - fruitfulness
-  - "Matthew 7"
-  - truth
-  - useless
-  - uselessness
+category: 1. "Faith in Scripture"
+  1. "Get Equipped"
+tag: 1. "2 peter"
+  1. equipping
+  1. faith
+  1. fruit
+  1. fruitfulness
+  1. "Matthew 7"
+  1. truth
+  1. useless
+  1. uselessness
 post_format: []
 ---
 

@@ -7,14 +7,12 @@ author: Eric Phifer
 excerpt: ""
 type: post
 id: 330
-category:
-  - "The Basics"
-tag:
-  - basic
-  - basics
-  - Death
-  - Die
-  - Jesus
+category: 1. "The Basics"
+tag: 1. basic
+  1. basics
+  1. Death
+  1. Die
+  1. Jesus
 post_format: []
 ---
 

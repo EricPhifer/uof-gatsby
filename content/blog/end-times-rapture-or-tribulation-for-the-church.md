@@ -7,13 +7,11 @@ author: Eric Phifer
 excerpt: ""
 type: post
 id: 343
-category:
-  - "The End"
-tag:
-  - "end times"
-  - rapture
-  - "the end"
-  - tribulation
+category: 1. "The End"
+tag: 1. "end times"
+  1. rapture
+  1. "the end"
+  1. tribulation
 post_format: []
 ---
 

@@ -8,18 +8,16 @@ excerpt: ""
 type: post
 id: 1
 thumbnail: ../uploads/2019/01/road-sign-forest-woods.jpg
-category:
-  - "Verses to Wrestle With"
-tag:
-  - Bible
-  - "difficult verses"
-  - God
-  - greek
-  - Hebrew
-  - tempt
-  - temptation
-  - understanding
-  - "verses to wrestle with"
+category: 1. "Verses to Wrestle With"
+tag: 1. Bible
+  1. "difficult verses"
+  1. God
+  1. greek
+  1. Hebrew
+  1. tempt
+  1. temptation
+  1. understanding
+  1. "verses to wrestle with"
 post_format: []
 ---
 

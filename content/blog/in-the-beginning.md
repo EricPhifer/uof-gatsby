@@ -1,5 +1,5 @@
 ---
-title: "In the Beginning&#8230;"
+title: "In the Beginning..."
 date: "2020-01-29T23:15:50+00:00"
 status: publish
 slug: /in-the-beginning

@@ -1,5 +1,5 @@
 ---
-title: "The Basic Questions &#8211; Who, What, When, Where, Why and How"
+title: "The Basic Questions and Who, What, When, Where, Why and How"
 date: "2020-04-16T12:05:45+00:00"
 status: publish
 slug: /the-basic-questions-who-what-when-where-why-and-how
@@ -7,10 +7,8 @@ author: Eric Phifer
 excerpt: ""
 type: post
 id: 284
-category:
-  - "The Basics"
-tag:
-  - basics
+category: 1. "The Basics"
+tag: 1. basics
 post_format: []
 ---
 

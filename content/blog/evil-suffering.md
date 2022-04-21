@@ -1,8 +1,8 @@
 ---
-title: "Evil &#038; Suffering"
+title: "Evil and Suffering"
 date: "2020-01-29T23:17:48+00:00"
 status: publish
-slug: /evil-suffering
+slug: /evil-and-suffering
 author: Eric Phifer
 excerpt: ""
 type: page

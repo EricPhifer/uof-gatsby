@@ -8,19 +8,23 @@ excerpt: ""
 type: post
 id: 358
 thumbnail: ../uploads/2021/01/church-pews-sanctuary.jpg
-category:
-  - "The End"
-  - "Truth in Scripture"
-tag:
-  - church
-  - churches
-  - "end times"
-  - john
-  - letter
-  - revelation
-  - warning
+category: 1. "The End"
+  1. "Truth in Scripture"
+tag: 1. church
+  1. churches
+  1. "end times"
+  1. john
+  1. letter
+  1. revelation
+  1. warning
 post_format: []
 ---
+
+<style>
+  .underline {
+    text-decoration: underline;
+  }
+</style>
 
 Wake up Church! The hour is at hand. The Lord of Heaven’s Armies is close. We have known the Lamb and He does, has and will always love us; however, the Lion of Judah is returning. To those he loves he also rebukes and disciplines. (Rev. 3:19)
 
@@ -104,21 +108,21 @@ There are two churches that Jesus does not rebuke: Smyrna and Philedelphia. All 
 
 **To Smyrna:**
 
-> I know your tribulation and poverty, yet <u>you are rich</u>. I know the slander of those who say they are Jews and are not, but are a synagogue of Satan. <u>Don’t be afraid</u> of what you are about <u>to suffer</u>. Look, the Devil is about to throw some of you into prison to test you, and <u>you will have tribulation</u> for 10 days. <u>Be faithful</u> until death and I will give you the crown of life.
+> I know your tribulation and poverty, yet <span class="underline"">you are rich</span>. I know the slander of those who say they are Jews and are not, but are a synagogue of Satan. <span class="underline"">Don’t be afraid</span> of what you are about <span class="underline"">to suffer</span>. Look, the Devil is about to throw some of you into prison to test you, and <span class="underline"">you will have tribulation</span> for 10 days. <span class="underline"">Be faithful</span> until death and I will give you the crown of life.
 >
-> …The victor will <u>never be harmed by the second death</u>.
+> …The victor will <span class="underline"">never be harmed by the second death</span>.
 >
-> – Rev. 2: 9-11(underlining added)
+> – Rev. 2: 9-11 (underlining added)
 
 **To Pergamum:**
 
-> I will give the victor some the <u>hidden manna</u>. I will also give him a<u> white stone on the stone a new name </u>is inscribed that no one knows except the one who receives it.
+> I will give the victor some the <span class="underline"">hidden manna</span>. I will also give him a<span class="underline""> white stone on the stone a new name </span>is inscribed that no one knows except the one who receives it.
 >
 > – Rev. 2: 17 (underlining added)
 
 **To Thyatira:**
 
-> I say to the rest of you in Thyatira, who <u>do not hold this teaching</u>, who haven’t known the deep things of Satan — as they say — <u>I do not put any other </u><u>burden</u><u> on you</u>. But<u> hold on</u> to what you have until I come. The victor and the one who keeps My works to the end: <u>I will give him authority over the nations</u> —
+> I say to the rest of you in Thyatira, who <span class="underline"">do not hold this teaching</span>, who haven’t known the deep things of Satan — as they say — <span class="underline"">I do not put any other </span><span class="underline"">burden</span><span class="underline""> on you</span>. But<span class="underline""> hold on</span> to what you have until I come. The victor and the one who keeps My works to the end: <span class="underline"">I will give him authority over the nations</span> —
 >
 > ‘and He will shepherd them with an iron scepter; He will shatter them like pottery — just as I have received this from My Father.’
 >
@@ -128,19 +132,19 @@ There are two churches that Jesus does not rebuke: Smyrna and Philedelphia. All 
 
 **To Sardis:**
 
-> But you have a few people in Sardis who <u>have not defiled their clothes</u>, and they will <u>walk with Me</u> in white, because they are worthy. In the same way, the victor will be <u>dressed in white clothes</u>, and <u>I will never erase his name from the book of life</u>, but will <u>acknowledge his name before My Father</u> and before His angels.
+> But you have a few people in Sardis who <span class="underline"">have not defiled their clothes</span>, and they will <span class="underline"">walk with Me</span> in white, because they are worthy. In the same way, the victor will be <span class="underline"">dressed in white clothes</span>, and <span class="underline"">I will never erase his name from the book of life</span>, but will <span class="underline"">acknowledge his name before My Father</span> and before His angels.
 >
 > – Rev. 3: 4-5 (underlining added)
 
 **To Philadelphia:**
 
-> I know your works. Because <u>you have limited strength</u>, have <u>kept My word</u>, and <u>have not denied My name</u>, look, I have placed before you an open door that no one is able to close. Take note! I will make those from the synagogue of Satan, who claim to be Jews and are not, but are lying — note this — I will make them come and <u>bow down at your feet</u>, and <u>they will know that I have loved you</u>. Because you have <u>kept My command to endure</u>, I will also <u>keep you from the hour of testing </u>that is going to come over the whole world to test those live on the earth. I am coming quickly. <u>Hold on to what you have</u>, so that no none takes your crown. The victor: I will <u>write on him the name of My God</u>, and the <u>name of the city of My God</u> — the new Jerusalem, which comes down out of heaven from My God — <u>and My new name</u>.
+> I know your works. Because <span class="underline"">you have limited strength</span>, have <span class="underline"">kept My word</span>, and <span class="underline"">have not denied My name</span>, look, I have placed before you an open door that no one is able to close. Take note! I will make those from the synagogue of Satan, who claim to be Jews and are not, but are lying — note this — I will make them come and <span class="underline"">bow down at your feet</span>, and <span class="underline"">they will know that I have loved you</span>. Because you have <span class="underline"">kept My command to endure</span>, I will also <span class="underline"">keep you from the hour of testing </span>that is going to come over the whole world to test those live on the earth. I am coming quickly. <span class="underline"">Hold on to what you have</span>, so that no none takes your crown. The victor: I will <span class="underline"">write on him the name of My God</span>, and the <span class="underline"">name of the city of My God</span> — the new Jerusalem, which comes down out of heaven from My God — <span class="underline"">and My new name</span>.
 >
 > – Rev. 3:8-12 (underlining added)
 
 **To Laodicea:**
 
-> Listen! I stand at the door and knock. If anyone <u>hears My voice</u> and <u>opens the door</u>, I will come in to him and <u>have dinner with him, and he with Me</u>. The victor: I will give him <u>the right to sit with Me on My throne</u>, just as I also won the victory and sat down with My Father on His throne.
+> Listen! I stand at the door and knock. If anyone <span class="underline"">hears My voice</span> and <span class="underline"">opens the door</span>, I will come in to him and <span class="underline"">have dinner with him, and he with Me</span>. The victor: I will give him <span class="underline"">the right to sit with Me on My throne</span>, just as I also won the victory and sat down with My Father on His throne.
 >
 > – Rev. 3: 20-21
 
@@ -183,6 +187,6 @@ Revelation is a book filled with metaphor. In order to understand what the Bible
 
 So repent – turn back to Jesus. Hold nothing higher than Him. Eternity is close. We may suffer &amp; endure trials, but as Paul says “our momentary, light affliction is producing for us an eternal weight of glory” (2 Cor. 4:17) and “look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal” (2 Cor. 4:18).
 
-**<u>Let all you do be for Christ &amp; Christ alone.</u>**
+**<span class="underline"">Let all you do be for Christ &amp; Christ alone.</span>**
 
 **All quotations are from the HCSB version.**

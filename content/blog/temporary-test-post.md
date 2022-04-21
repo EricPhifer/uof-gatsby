@@ -7,42 +7,40 @@ author: Eric Phifer
 excerpt: ""
 type: post
 id: 131
-category:
-  - Uncategorized
-tag:
-  - "Adam and eve"
-  - apocalypse
-  - "armor of God"
-  - authority
-  - basic
-  - basics
-  - beginning
-  - "difficult verses"
-  - doctrine
-  - "end times"
-  - equipped
-  - equipping
-  - essential
-  - evil
-  - faith
-  - genesis
-  - "hard verses"
-  - Jesus
-  - music
-  - pain
-  - praise
-  - revelation
-  - singing
-  - "spiritual warfare"
-  - suffering
-  - "the end"
-  - "the fall"
-  - "the Word"
-  - "tough stuff"
-  - trust
-  - truth
-  - "verses to wrestle with"
-  - worship
+category: 1. Uncategorized
+tag: 1. "Adam and eve"
+  1. apocalypse
+  1. "armor of God"
+  1. authority
+  1. basic
+  1. basics
+  1. beginning
+  1. "difficult verses"
+  1. doctrine
+  1. "end times"
+  1. equipped
+  1. equipping
+  1. essential
+  1. evil
+  1. faith
+  1. genesis
+  1. "hard verses"
+  1. Jesus
+  1. music
+  1. pain
+  1. praise
+  1. revelation
+  1. singing
+  1. "spiritual warfare"
+  1. suffering
+  1. "the end"
+  1. "the fall"
+  1. "the Word"
+  1. "tough stuff"
+  1. trust
+  1. truth
+  1. "verses to wrestle with"
+  1. worship
 post_format: []
 ---
 

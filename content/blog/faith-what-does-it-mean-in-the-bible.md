@@ -8,13 +8,17 @@ excerpt: ""
 type: post
 id: 298
 thumbnail: ../uploads/2020/02/yellow-sparkles-glitter.jpg
-category:
-  - "Faith in Scripture"
-tag:
-  - faith
-  - scripture
+category: 1. "Faith in Scripture"
+tag: 1. faith
+  1. scripture
 post_format: []
 ---
+
+<style>
+  .underline {
+    text-decoration: underline;
+  }
+</style>
 
 I think it’s important to start this question with the culture first. Here in America at this time there is a common belief that “blind faith is the best faith”. The scripture most often cited to uphold this view occurs after the resurrection when Jesus is talking to Thomas. The reference occurs in [John 20:24-29](https://www.biblegateway.com/passage/?search=John+20%3A24-29&version=HCSB).
 
@@ -76,6 +80,6 @@ Faith is not merely emotion and it is not merely head knowledge. It is encompass
 
 So how does this fit back into 2 Peter? The first attribute listed is faith, or trust by way of evidence to convince us. I don’t think faith was first by accident. I believe it is foundational to Christianity but, based on this and [the resources here](https://understandingoffaith.com/faith-the-list-in-scripture/), in order to gain that faith, we must be thoroughly convinced of the truth that [first _we are sinners_, second _want to change_ and third _Jesus lived, died and rose again_](https://understandingoffaith.com/sin-repentance-jesus-the-foundation-of-christianity/) in order to save us from that sin.
 
-I believe that we as believers should understand _<span style="text-decoration: underline;">everything</span>_ we can possible know related to these three things. If we are thoroughly convinced of these 3 things, we can then move on to 2 Peter 1:5-8 to grow in the sanctification of Christ.
+I believe that we as believers should understand _<span class="underline"">everything</span>_ we can possible know related to these three things. If we are thoroughly convinced of these 3 things, we can then move on to 2 Peter 1:5-8 to grow in the sanctification of Christ.
 
 After this confident trust in Christ, it must be supplemented by goodness. So what is goodness in the Bible? I’ll cover that next.

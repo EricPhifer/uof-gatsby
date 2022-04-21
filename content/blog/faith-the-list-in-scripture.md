@@ -8,16 +8,20 @@ excerpt: ""
 type: post
 id: 232
 thumbnail: ../uploads/2020/03/blue-sparkles-glitter-reduced-size.jpg
-category:
-  - "Faith in Scripture"
-tag:
-  - faith
-  - list
-  - reference
-  - scripture
-  - trust
+category: 1. "Faith in Scripture"
+tag: 1. faith
+  1. list
+  1. reference
+  1. scripture
+  1. trust
 post_format: []
 ---
+
+<style>
+  .underline {
+    text-decoration: underline;
+  }
+</style>
 
 Okay, so I’m starting with the absolute basics here, which is going to feel incredibly overwhelming – I know because I feel it, but I believe it will be worth it.
 
@@ -49,9 +53,9 @@ You’ll notice a number referenced with the definition of a word; this is the S
 
 _peitho_ (3982) – a primitive verb; to convince (by argument, true or false); by analogy, to purify or conciliate (by other fair means); reflexive or passive, to assert (to evidence or authority, to rely (by inward certainty; — agree, assure, believe, have confidence, be (wax) confident, make a friend, obey, persuade, trust, yield
 
-## <span style="text-decoration: underline;">In Scripture</span>
+## <span class="underline"">In Scripture</span>
 
-### <span class="has-inline-color has-vivid-cyan-blue-color"><span style="text-decoration: underline;">Faith</span></span>
+### <span class="has-inline-color has-vivid-cyan-blue-color"><span class="underline"">Faith</span></span>
 
 #### Old Testament (2 References)
 
@@ -343,7 +347,7 @@ _peitho_ (3982) – a primitive verb; to convince (by argument, true or false); 
 - [Revelation 13:10](https://www.biblegateway.com/passage/?search=Revelation+13%3A10&version=HCSB) (4102)
 - [Revelation 14:12](https://www.biblegateway.com/passage/?search=Revelation+14%3A12&version=HCSB) (4102)
 
-### <span class="has-inline-color has-vivid-cyan-blue-color"><span style="text-decoration: underline;">Faithful</span></span>
+### <span class="has-inline-color has-vivid-cyan-blue-color"><span class="underline"">Faithful</span></span>
 
 <div class="wp-block-group"><div class="wp-block-group__inner-container">#### Definitions for Faithful
 
@@ -353,7 +357,7 @@ _emuwn_ \[ay-moon\] (529) – trusty (fig.), trustworthiness (abstract), faith (
 
 _emuwnah_ / _emunah_ \[em-oo-naw\] (530) – firmness (lit.), security (fig.), (mor.) fidelity — faith (-ful, -ly, -ness, \[man\]), set office, stability, steady, truly, truth, verily
 
-_aman_ \[aw-man\] (539) – a primitive root; _properly_ to build up or support; to foster as a parent or nurse; _figurative_ – to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; _moral (-ly)_ to be sure or certain; once (Is. 30:21; by interchange for 541) to go to the right hand; – assurance, believe, bring up, establish, + fail, be faithful (of long continuance, steadfast, sure, surely, trusty, verified), nurse, (-ing father), (put), trust, turn to the right
+_aman_ \[aw-man\] (539) – a primitive root; _properly_ to build up or support; to foster as a parent or nurse; _figurative_ – to render (or be) firm or faithful, to trust or believe, to be permanent or quiet; _moral (-ly)_ to be sure or certain; once (Is. 30:21; by interchange for 541) to go to the right hand; – assurance, believe, bring up, establish, 1. fail, be faithful (of long continuance, steadfast, sure, surely, trusty, verified), nurse, (-ing father), (put), trust, turn to the right
 
 _aman_ \[am-an\] (Chaldean) (540) – corresponding to 539; — believe, faithful, sure
 
